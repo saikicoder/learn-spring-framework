@@ -1,12 +1,12 @@
-package com.in28minutes.learn_spring_framework;
+package com.in28minutes.learn_spring_framework_01;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
-import com.in28minutes.learn_spring_framework.game.GameRunner;
-import com.in28minutes.learn_spring_framework.game.GamingConsole;
-import com.in28minutes.learn_spring_framework.game.PacManGame;
+import com.in28minutes.learn_spring_framework_01.game.GameRunner;
+import com.in28minutes.learn_spring_framework_01.game.GamingConsole;
+import com.in28minutes.learn_spring_framework_01.game.PacManGame;
 
 @Configuration
 public class GamingConfiguration {

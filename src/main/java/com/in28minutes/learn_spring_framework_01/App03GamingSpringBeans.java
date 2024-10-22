@@ -1,8 +1,8 @@
-package com.in28minutes.learn_spring_framework;
+package com.in28minutes.learn_spring_framework_01;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.in28minutes.learn_spring_framework.game.GameRunner;
-import com.in28minutes.learn_spring_framework.game.GamingConsole;
+import com.in28minutes.learn_spring_framework_01.game.GameRunner;
+import com.in28minutes.learn_spring_framework_01.game.GamingConsole;
 
 public class App03GamingSpringBeans {
 
